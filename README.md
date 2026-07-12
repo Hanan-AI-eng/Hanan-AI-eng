@@ -87,5 +87,7 @@ AI research assistant built with Botpress and n8n to help students search, summa
 - 💻 GitHub: https://github.com/Hanan-AI-eng
 
 ---
+<img data-importer="snake" src="https://raw.githubusercontent.com/Hanan-AI-eng/Hanan-AI-eng/snake-output/snake.svg" alt="Snake animation" />
 
+###
 ⭐ Thanks for visiting my profile!
