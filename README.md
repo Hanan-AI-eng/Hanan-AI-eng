@@ -4,7 +4,7 @@
 
 # Hi 👋, I'm Hanan Nasr
 
-### 🤍 Artificial Intelligence Student • Machine Learning • AI Automation 🤍
+### 🤍 Artificial Intelligence • Machine Learning • AI Automation 🤍
 
 🎓 **Artificial Intelligence Student at Asia Pacific University (APU), Malaysia**
 
