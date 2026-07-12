@@ -1,94 +1,24 @@
 <h1 align="center">Hi 👋, I'm Hanan Nasr</h1>
-<h3 align="center">AI Student | Machine Learning | Automation | Building AI Solutions</h3>
+<h3 align="center">AI Student • Machine Learning • AI Automation</h3>
 
-<p align="center">
-🎓 Bachelor of Computer Science (Artificial Intelligence) @ Asia Pacific University (APU), Malaysia
-</p>
+🎓 Artificial Intelligence Student at Asia Pacific University (APU), Malaysia
 
----
+### 🚀 About Me
 
-## 🚀 About Me
+- 🤖 Passionate about AI, Machine Learning, LLMs, and Computer Vision
+- 💡 Building AI-powered applications and automation workflows
+- 🌱 Currently learning Generative AI, AI Agents, and MLOps
+- 💼 Open to AI & Machine Learning internships
 
-- 🎓 AI Student at Asia Pacific University (APU)
-- 🤖 Interested in Artificial Intelligence, Machine Learning, Computer Vision and LLMs
-- 💡 Building AI-powered applications and workflow automation
-- 🌱 Currently learning Generative AI, AI Agents, Cloud AI and MLOps
-- 💼 Open to AI, Machine Learning and Software Engineering internships
-- 📫 Reach me on LinkedIn
+### 🛠️ Tech Stack
 
----
+Python • C# • SQL • JavaScript • Git • GitHub • Botpress • n8n • Azure • AWS
 
-## 🛠️ Tech Stack
+### 🚀 Featured Projects
 
-**Languages**
+- **PulseCity** – AI-powered urban issue reporting platform
+- **DeepScholar** – AI research assistant built with Botpress and n8n
 
-- Python
-- C#
-- SQL
-- JavaScript
-- HTML
-
-**AI & Data**
-
-- Machine Learning
-- Prompt Engineering
-- LLMs
-- Computer Vision
-- NLP
-
-**Tools**
-
-- Git
-- GitHub
-- VS Code
-- Botpress
-- n8n
-- Azure
-- AWS
-- Visual Studio
-
----
-
-## 🚀 Featured Projects
-
-### 🏙️ PulseCity
-AI-powered urban intelligence platform where citizens report city issues using AI image analysis.
-
-**Tech Used**
-- JavaScript
-- Google Gemini AI
-- Image Classification
-- Risk Prediction
-
----
-
-### 📚 DeepScholar
-AI research assistant built with Botpress and n8n to help students search, summarize and understand research papers.
-
-**Features**
-- Research assistant
-- AI summaries
-- Prompt engineering
-- Workflow automation
-
----
-
-## 📊 GitHub Stats
-
-![Hanan's GitHub stats](https://github-readme-stats.vercel.app/api?username=Hanan-AI-eng&show_icons=true)
-
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Hanan-AI-eng&layout=compact)
-
----
-
-## 🌍 Connect With Me
+### 🌐 Connect
 
 - 💼 LinkedIn: https://www.linkedin.com/in/hanan-ai-eng/
-- 💻 GitHub: https://github.com/Hanan-AI-eng
-
----
-<p align="center">
-  <img src="https://raw.githubusercontent.com/Hanan-AI-eng/Hanan-AI-eng/snake-output/snake.svg" alt="Snake animation" />
-</p>
-
-⭐ Thanks for visiting my profile!
