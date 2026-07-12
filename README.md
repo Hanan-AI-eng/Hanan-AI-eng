@@ -2,9 +2,7 @@
 <h3 align="center">AI Student • Machine Learning • AI Automation</h3>
 
 🎓 Artificial Intelligence Student at Asia Pacific University (APU), Malaysia
-<marquee direction="left" scrollamount="5">
-  🎀 ‖ Ɛ 🎛️ tech girl 3 彡 -° I'm 19 years old
-</marquee>
+
 ### 🚀 About Me
 
 - 🤖 Passionate about AI, Machine Learning, LLMs, and Computer Vision
