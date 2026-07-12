@@ -22,7 +22,7 @@
 
 💼 Open to **AI, Machine Learning, Software Engineering, and AI Automation internships.**
 
-👯 Looking to collaborate on **Open Source AI Projects, Machine Learning applications, and LLM-based solutions.**
+👯 Looking to collaborate on **Open Source AI Projects, Machine Learning applications, and LLM based solutions.**
 
 💬 Ask me about **Python, C#, SQL, Prompt Engineering, Botpress, n8n, Git, and AI Automation.**
 
