@@ -63,14 +63,11 @@ An AI research assistant built with **Botpress** and **n8n** that helps students
 
 # 📊 GitHub Stats
 
-<p align="center">
-  <img height="170" src="https://github-readme-stats.vercel.app/api?username=hanan-ai-eng&show_icons=true&theme=tokyonight&hide_border=true" />
-  <img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=hanan-ai-eng&layout=compact&theme=tokyonight&hide_border=true" />
-</p>
+<div align="center">
 
-<p align="center">
-  <img src="https://streak-stats.demolab.com?user=hanan-ai-eng&theme=tokyonight&hide_border=true" />
-</p>
+<img src="https://streak-stats.demolab.com?user=hanan-ai-eng&theme=tokyonight&hide_border=true"/>
+
+</div>
 
 ---
 
