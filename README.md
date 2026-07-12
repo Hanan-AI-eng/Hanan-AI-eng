@@ -6,9 +6,7 @@
 
 ### 🤍 Artificial Intelligence Student • Machine Learning • AI Automation 🤍
 
-🎓 **AI Student (Dual Degree)** — Asia Pacific University (APU), Malaysia & De Montfort University, UK
-
-📍 Kuala Lumpur, Malaysia &nbsp;|&nbsp; 💼 Open to AI / ML / Software Engineering Internships
+🎓 **Artificial Intelligence Student at Asia Pacific University (APU), Malaysia**
 
 🌸 ─────────────────────── 🎀 ─────────────────────── 🌸
 
@@ -36,28 +34,18 @@
 
 <div align="center">
 
-**AI / ML / Data**
-
-![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
-![NumPy](https://img.shields.io/badge/numpy-013243?style=for-the-badge&logo=numpy&logoColor=white)
-![Pandas](https://img.shields.io/badge/pandas-150458?style=for-the-badge&logo=pandas&logoColor=white)
-![scikit-learn](https://img.shields.io/badge/scikit--learn-F7931E?style=for-the-badge&logo=scikitlearn&logoColor=white)
-
-**Languages & Backend**
-
 ![C#](https://img.shields.io/badge/c%23-%23239120.svg?style=for-the-badge&logo=csharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
-![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
-![JavaScript](https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-
-**Cloud & Tools**
-
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
 ![AWS](https://img.shields.io/badge/AWS-%23FF9900.svg?style=for-the-badge&logo=amazon-aws&logoColor=white)
 ![Azure](https://img.shields.io/badge/azure-%230072C6.svg?style=for-the-badge&logo=microsoftazure&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![Microsoft SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoftsqlserver&logoColor=white)
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
 ![Git](https://img.shields.io/badge/Git-F05033?style=for-the-badge&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
 ![Cisco](https://img.shields.io/badge/Cisco-049FD9?style=for-the-badge&logo=cisco&logoColor=black)
+![AssemblyScript](https://img.shields.io/badge/AssemblyScript-000000?style=for-the-badge&logo=assemblyscript&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white)
 
 </div>
 
@@ -65,35 +53,11 @@
 
 # 🌷 Featured Projects
 
-### 🌆 [PulseCity — AI Urban Intelligence Platform](https://github.com/Hanan-AI-eng/pulsecity)
-AI-powered platform where citizens report urban issues via images. Uses Gemini AI for image classification and urgency prediction, with pattern detection across reports to predict urban risks (e.g. flood risk) and a real-time "city health" monitoring concept.
+### 🌆 PulseCity
+An AI-powered smart city platform that classifies, prioritizes, and helps manage urban issue reports using machine learning.
 
-`Python` `Gemini AI` `Computer Vision` `Machine Learning`
-
-### 📚 DeepScholar — AI Research Assistant
-An intelligent chatbot built with **Botpress** and **n8n** that summarizes, compares, and explains research papers, helping students find academic resources faster.
-
-`Botpress` `n8n` `NLP` `Automation`
-
-### 🏨 Hotel Management System
-Python-based system for managing hotel operations and data, built collaboratively as a team project.
-
-`Python` `Team Project`
-
-### 🍽️ Chef Management System
-Backend system integrated with a SQL database, focused on clean logic and structure.
-
-`C#` `SQL` `Team Project`
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=hanan-ai-eng&theme=tokyonight&no-frame=true&row=1&column=6" />
-
-</div>
+### 📚 DeepScholar
+An AI research assistant built with **Botpress** and **n8n** that helps students search, summarize, compare, and understand academic papers.
 
 ---
 
@@ -104,17 +68,6 @@ Backend system integrated with a SQL database, focused on clean logic and struct
 <img src="https://streak-stats.demolab.com?user=hanan-ai-eng&theme=tokyonight&hide_border=true"/>
 
 </div>
-
----
-
-# 📜 Certifications
-
-- ☁️ AWS Introduction to PartyRock
-- ☁️ AWS Cendekiawan 2026 — AI Application Development
-- 🎓 AI Amplified Scholar Workshop – APU
-- 🚀 Startup Innovate Program – APU
-- 🌐 CCNA: Introduction to Networks – Cisco Networking Academy
-- 📊 Data Analysis 101 – Microsoft
 
 ---
 
@@ -134,10 +87,6 @@ Backend system integrated with a SQL database, focused on clean logic and struct
 <img src="https://img.shields.io/badge/LeetCode-FFA116?style=for-the-badge&logo=leetcode&logoColor=black"/>
 </a>
 
-<a href="mailto:Onea3259@gmail.com">
-<img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
-</a>
-
 </div>
 
 <div align="center">
@@ -145,8 +94,6 @@ Backend system integrated with a SQL database, focused on clean logic and struct
 🌸 ─────────────────────── 🎀 ─────────────────────── 🌸
 
 ✨ *"Learning, Building, and Growing one AI project at a time."* ✨
-
-<img src="https://komarev.com/ghpvc/?username=hanan-ai-eng&color=blueviolet&style=flat" alt="profile views" />
 
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&height=120&section=footer&color=gradient&customColorList=12,20,24,30"/>
 
