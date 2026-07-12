@@ -21,4 +21,4 @@ Python • C# • SQL • JavaScript • Git • GitHub • Botpress • n8n •
 
 ### 🌐 Connect
 
-- 💼 LinkedIn: https://www.linkedin.com/in/hanan-ai-eng/
+- 💼 LinkedIn: www.linkedin.com/in/hanan-nasr-zaher-3a7660183
